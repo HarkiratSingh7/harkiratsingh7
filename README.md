@@ -1,5 +1,5 @@
 ## :wave: Hi there!
-I'm Harkirat Singh, a student and a _freelancer_. I am pursuing a B.Tech degree from **[Guru Nanank Dev University Regional Campus, Gurdaspur](https://www.gndurcgsp.in/)**.
+I'm Harkirat Singh, a student and a _freelancer_. I am pursuing a B.Tech degree from **[Guru Nanak Dev University Regional Campus, Gurdaspur](https://www.gndurcgsp.in/)**.
 #### Welcome to my github profile :smile:
 I like to work with different frameworks, platforms and ideas.
 ## 📫 Where to find me
