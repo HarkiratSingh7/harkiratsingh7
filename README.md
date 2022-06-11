@@ -3,23 +3,27 @@ I'm Harkirat Singh. I am pursuing a B.Tech degree in Computer Science and Engine
 
 ### My Public Repos
 
-#### 1. [ADSALib](https://github.com/HarkiratSingh7/ADSALib)
+#### 1. [Machine Learning with Python](https://github.com/HarkiratSingh7/Machine-Learning-with-Python)
+_Language_: Python<br>
+_Description_: Four machine learning projects implemented with different algorithms. These projects were completed as the part of the final project of my Quantum Learnings Machine Learning Internship Training Program.
+
+#### 2. [ADSALib](https://github.com/HarkiratSingh7/ADSALib)
 _Language_: C++<br>
 _Description_: Implementations and demonstrations of various data structures.
 
-#### 2. [OSBasicAlgos](https://github.com/HarkiratSingh7/OSBasicAlgos)
+#### 3. [OSBasicAlgos](https://github.com/HarkiratSingh7/OSBasicAlgos)
 _Language: C++_<br>
 _Description_: Implementation of Monitors (Demo of Mutexes), Deadlocks and various Process Scheduling algorithms.
 
-#### 3. [ASPNETPractice](https://github.com/HarkiratSingh7/ASPNETPractice)
+#### 4. [ASPNETPractice](https://github.com/HarkiratSingh7/ASPNETPractice)
 _Language: C#, ASP.NET_<br>
 _Description_: Many practice projects implemented in C# ASP.NET.
 
-#### 4. [ShootingSpaceJetGame](https://github.com/HarkiratSingh7/ShootingSpaceJetGame)
+#### 5. [ShootingSpaceJetGame](https://github.com/HarkiratSingh7/ShootingSpaceJetGame)
 _Language: Python_<br>
 _Description_: A graphical shooting space jet game made using pygame library.
 
-#### 5. [DisableTaskbar](https://github.com/HarkiratSingh7/DisableTaskbar)
+#### 6. [DisableTaskbar](https://github.com/HarkiratSingh7/DisableTaskbar)
 _Language: C#_<br>
 _Description_: An application that creates a shortcut key for hiding and showing the windows taskbar. Sometimes, when the user uses auto-hide feature, the taskbar can pop up when mouse accidently touches the bottom of the screen (or whatever is the location of the taskbar). Some GUI applications have control buttons located at the bottom of the screen. In such case, it can be annoying. 
 
