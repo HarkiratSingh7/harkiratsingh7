@@ -23,7 +23,11 @@ _Description_: Many practice projects implemented in C# ASP.NET.
 _Language: Python_<br>
 _Description_: A graphical shooting space jet game made using pygame library.
 
-#### 6. [DisableTaskbar](https://github.com/HarkiratSingh7/DisableTaskbar)
+#### 6. [The Introductory Graphics](https://github.com/HarkiratSingh7/the-introductory-graphics)
+_Language: C++_<br>
+_Description_: Graphical algorithms implemented in C++ language.
+
+#### 7. [DisableTaskbar](https://github.com/HarkiratSingh7/DisableTaskbar)
 _Language: C#_<br>
 _Description_: An application that creates a shortcut key for hiding and showing the windows taskbar. Sometimes, when the user uses auto-hide feature, the taskbar can pop up when mouse accidently touches the bottom of the screen (or whatever is the location of the taskbar). Some GUI applications have control buttons located at the bottom of the screen. In such case, it can be annoying. 
 
@@ -36,8 +40,6 @@ On HackerRank, **[click here](https://www.hackerrank.com/honey_harkirat)**.
 
 ## Github Stats :chart_with_upwards_trend:
 ![](https://github-readme-stats.vercel.app/api?username=HarkiratSingh7&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarkiratSingh7&theme=tokyonight)
 
 ## Skills :computer: :iphone: :hammer_and_wrench:
 ![](https://img.shields.io/badge/Code-C%2b%2b-informational?style=flat&logo=C%2b%2b&logoColor=white&color=298F85) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=298F85) ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharplang&logoColor=white&color=298F85)
