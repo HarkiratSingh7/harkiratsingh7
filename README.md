@@ -1,5 +1,5 @@
 ## :wave: Hi there!
-I'm Harkirat Singh. I am pursuing a B.Tech degree in Computer Science and Engineering from **[Guru Nanak Dev University Regional Campus, Gurdaspur](https://www.gndurcgsp.in/)**.
+I'm Harkirat Singh. I am an Associate Software Engineer at Zscaler.
 
 ### My Public Repos
 
